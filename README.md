@@ -1,6 +1,4 @@
-Here's a README template for the **Family Todo** project based on the provided links. You can further customize the details if needed.
 
----
 
 # Family Todo
 
