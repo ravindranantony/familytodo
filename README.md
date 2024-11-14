@@ -1,6 +1,4 @@
 
-Here's a README template for the Family Todo project based on the provided links. You can further customize the details if needed.
-
 Family Todo
 Welcome to Family Todo – a simple, user-friendly task management application designed to help families organize their daily tasks effortlessly. Built with React and hosted on Netlify, this app provides a clean interface for adding, tracking, and managing family chores.
 
